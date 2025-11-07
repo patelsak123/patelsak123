@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patelsak123
-- 👀 I’m interested in Data analysis 
+- 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Microsoft 
 - 📫 How to reach me by text me 
